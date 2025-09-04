@@ -1,6 +1,6 @@
 <!-- Header with animated typing effect -->
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A855F7&center=true&vCenter=true&width=940&lines=Hi+👋+I'm+Dhaval+Heruwala;Full-Stack+Developer;MERN+Stack+%26+Cloud+Solutions" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A855F7&center=true&vCenter=true&width=940&lines=Hi+👋+I'm+Dhaval+Heruwala;Full-Stack+Developer;MERN+Stack+%26+Cloud+Solutions" alt="Typing SVG" />
 </div>
 
 <!-- Profile Views Counter -->
@@ -93,6 +93,7 @@ Full-stack developer specializing in MERN stack applications and cloud-native so
 
 ## 💡 Current Focus
 
+- **Domain Driven Design** - Enterprise architecture patterns and strategic design
 - **Serverless Architecture** - Cloud-native applications
 - **Event-Driven Systems** - Scalable messaging architectures
 - **Integration Patterns** - Enterprise system connectivity
