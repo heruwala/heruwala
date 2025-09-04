@@ -14,9 +14,9 @@
 
 Full-stack developer specializing in MERN stack applications and cloud-native solutions. Experience with Domain Driven Design, enterprise integration patterns, microservices architecture, and modern development practices.
 
-🎯 **Focus:** Serverless architectures, microservices, event-driven systems  
+🎯 **Focus:** Serverless architectures, Domain Driven Design, event-driven systems  
 🌱 **Learning:** Advanced cloud patterns and integration technologies  
-📍 **Location:** Philadelphia, PA
+🤝 **Open to:** Collaboration and new opportunities
 
 ---
 
